@@ -18,9 +18,9 @@ timezone:
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: ginn # the main title
+title: ぎんのブログ # the main title
 
-tagline: ネットワークエンジニア　学生 # it will display as the sub-title
+tagline: ぎん ネットワークエンジニア 学生 # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
   ネットワークエンジニアを目指す２５卒専門学生の日記＆備忘録ブログです。
@@ -37,7 +37,7 @@ twitter:
 social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
-  name: ぎん
+  name: ginn
   email: sibsow7@gmail.com # change to your email address
   links:
     # The first element serves as the copyright owner's link
