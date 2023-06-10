@@ -18,12 +18,12 @@ timezone:
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: Chirpy # the main title
+title: ginn # the main title
 
-tagline: A text-focused Jekyll theme # it will display as the sub-title
+tagline: ネットワークエンジニア　学生 # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
-  A minimal, responsive and feature-rich Jekyll theme for technical writing.
+  ネットワークエンジニアを目指す２５卒専門学生の日記＆備忘録ブログです。
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
 url: ""
@@ -32,7 +32,7 @@ github:
   username: tmgsow7 # change to your github username
 
 twitter:
-  username: ぎん # change to your twitter username
+  username: ginnnet1234 # change to your twitter username
 
 social:
   # Change to your full name.
@@ -70,7 +70,7 @@ google_analytics:
 #     light  - Use the light color scheme
 #     dark   - Use the dark color scheme
 #
-theme_mode: light # [light|dark]
+theme_mode: # [light|dark]
 
 # The CDN endpoint for images.
 # Notice that once it is assigned, the CDN url
@@ -80,7 +80,7 @@ theme_mode: light # [light|dark]
 img_cdn:
 
 # the avatar on sidebar, support local or CORS resources
-avatar:
+avatar: /assets/img/profile_icon.jpg
 
 # boolean type, the global switch for TOC in posts.
 toc: true
